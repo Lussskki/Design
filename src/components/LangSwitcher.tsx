@@ -15,7 +15,7 @@ export default function LangSwitcher({
         className="lang-pill"
         style={{
           transform: isEn ? "translateX(0px)" : "translateX(44px)",
-          width: "40px",
+          width: "54px",
         }}
       />
       <button
